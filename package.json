@@ -10,7 +10,7 @@
   "dependencies": {
     "casper": "github:tryghost/Casper#3.1.2",
     "ghost": "^3.1.0",
-    "ghost-storage-adapter-ipfs": "https://github.com/agentofuser/ghost-storage-adapter-ipfs.git#fix-package-json",
+    "ghost-storage-adapter-ipfs": "git+https://github.com/agentofuser/ghost-storage-adapter-ipfs.git#fix-package-json",
     "mysql": "^2.18.1"
   },
   "engines": {
