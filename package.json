@@ -13,9 +13,6 @@
     "ghost-storage-adapter-ipfs": "git+https://github.com/agentofuser/ghost-storage-adapter-ipfs.git#fix-package-json",
     "mysql": "^2.18.1"
   },
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
     "start": "node server.js"
   }
