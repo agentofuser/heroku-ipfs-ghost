@@ -17,7 +17,7 @@
   "env": {
     "PUBLIC_URL": {
       "description": "The HTTPS URL of this app: either your custom domain or default 'herokuapp.com' hostname.",
-      "value": "https://YOURAPPNAME.herokuapp.com"
+      "value": "https://agentofuser-ghost.herokuapp.com"
     },
     "IPFS_GATEWAY_URL": {
       "description": "The HTTPS URL of your prefered IPFS gateway (defaults to https://ipfs.io)",
